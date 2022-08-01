@@ -29,7 +29,7 @@ export default function Home() {
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
           <path
             fill="#023047"
-            fill-opacity="1"
+            fillOpacity="1"
             d="M0,64L48,74.7C96,85,192,107,288,133.3C384,160,480,192,576,197.3C672,203,768,181,864,170.7C960,160,1056,160,1152,154.7C1248,149,1344,139,1392,133.3L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
           ></path>
         </svg>
@@ -156,7 +156,7 @@ export default function Home() {
           </div>
         </div>
         <svg className="bg-[#023047]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-          <path fill="#ffffff" fill-opacity="1" d="M0,224L120,229.3C240,235,480,245,720,229.3C960,213,1200,171,1320,149.3L1440,128L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path>
+          <path fill="#ffffff" fillOpacity="1" d="M0,224L120,229.3C240,235,480,245,720,229.3C960,213,1200,171,1320,149.3L1440,128L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path>
         </svg>
       </main>
       <footer id="contact" className="flex flex-col justify-center items-center gap-2 bg-[#ffffff] text-center">
