@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Ricky Indra Gunawan's Portfolio</title>
-        <meta name="description" content="Ricky's Portfolio" />
+        <title>Ricky Indra Gunawan`s Portfolio</title>
+        <meta name="description" content="Ricky`s Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
@@ -15,7 +15,7 @@ export default function Home() {
           <img src={"/photo-profile.jpg"} className="rounded-md w-[10rem] sm:w-[12rem] border-4 border-[#023047]" />
           <div className="text-center flex flex-col gap-4">
             <h1 className="text-3xl font-bold">Ricky Indra Gunawan</h1>
-            <p className="text-xl">I'm a frontend developer looking for opportunities in the industry</p>
+            <p className="text-xl">I am a frontend developer looking for opportunities in the industry</p>
             <div className="flex justify-center gap-6">
               <a href="#portfolio" className="text-white uppercase bg-[#fb8500] py-1 px-2 rounded-md shadow-lg hover:bg-[#d87503] border-2 border-slate-300">
                 my portfolio
