@@ -146,9 +146,9 @@ export default function Home() {
               <div className="mt-8 flex flex-col gap-2 items-center">
                 <p className="text-lg">Technology used:</p>
                 <div className="flex gap-4 items-center">
-                  <TailwindCss />
                   <ReactNative />
                   <Redux />
+                  <TailwindCss />
                   <p className="text-sm">React Native Async Storage</p>
                 </div>
               </div>
@@ -162,15 +162,15 @@ export default function Home() {
       <footer id="contact" className="flex flex-col justify-center items-center gap-2 bg-[#ffffff] text-center">
         <h2 className="text-2xl font-semibold">Reach Me On:</h2>
         <div className="flex flex-col gap-2">
-          <a href="" className="flex items-center gap-2 hover:underline">
+          <a href="https://www.linkedin.com/in/ricky-indra-gunawan-68a1281a1/" target="blank" className="flex items-center gap-2 hover:underline">
             <LinkedIn width="35" height="30" />
             <span>Ricky Indra Gunawan</span>
           </a>
-          <a href="" className="flex items-center gap-2 hover:underline">
+          <a href="mailto:rickyindra006@gmail.com" target="blank" className="flex items-center gap-2 hover:underline">
             <Gmail />
             <span className="ml-1">rickyindra006@gmail.com</span>
           </a>
-          <a href="" className="flex items-center gap-2 hover:underline">
+          <a href="https://github.com/ricky-gunawan" target="blank" className="flex items-center gap-2 hover:underline">
             <GitHub width="31" height="30" />
             <span className="ml-1">ricky-gunawan</span>
           </a>
