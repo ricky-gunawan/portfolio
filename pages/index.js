@@ -35,7 +35,7 @@ export default function Home() {
         </svg>
         <div id="portfolio" className="px-8 bg-[#023047] text-white">
           <h2 className="text-3xl font-semibold text-center">Projects that I have personally built</h2>
-          <div className="mt-16 flex flex-col sm:flex-row gap-8">
+          <div id="ui-components" className="pt-8 mt-16 flex flex-col sm:flex-row gap-8">
             <div className="group cursor-pointer relative sm:w-[60%] sm:max-w-[48rem] self-start border-4 border-[#fb8500] rounded-md shadow-lg shadow-black">
               <img src="/web-ui-components.png" alt="web ui components library" />
               <div className="hidden group-hover:flex absolute top-0 left-0 w-full h-full bg-slate-300/40 justify-center items-center">
@@ -69,7 +69,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div>
+          <div id="shoeshop" className="pt-4">
             <div className="mt-32 flex flex-col sm:flex-row-reverse gap-8">
               <div className="group cursor-pointer relative sm:w-[60%] sm:max-w-[48rem] self-start border-4 border-[#fb8500] rounded-md shadow-lg shadow-black">
                 <img src="/shoeshop.png" alt="shoeshop" />
@@ -120,7 +120,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="mt-32 flex flex-col sm:flex-row gap-8">
+          <div id="simple-note" className="mt-32 pt-4 flex flex-col sm:flex-row gap-8">
             <div className="mockup-phone border-[#fb8500] max-w-[18rem] self-start shadow-lg shadow-black">
               <div className="camera"></div>
               <div className="display">
