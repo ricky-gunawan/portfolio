@@ -1,4 +1,4 @@
-export const GitHub = ({ fill = "#1B1817", width = "148", height = "144" }) => {
+export const GitHubIcon = ({ fill = "#1B1817", width = "148", height = "144" }) => {
   return (
     <svg width={width} height={height} viewBox="0 0 148 144" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -18,7 +18,7 @@ export const GitHub = ({ fill = "#1B1817", width = "148", height = "144" }) => {
   );
 };
 
-export const Gmail = () => {
+export const GmailIcon = () => {
   return (
     <svg width="32" height="30" viewBox="0 0 32 30" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g clipPath="url(#clip0_2_18)">
@@ -41,7 +41,7 @@ export const Gmail = () => {
   );
 };
 
-export const LinkedIn = ({ width = "30", height = "30" }) => {
+export const LinkedInIcon = ({ width = "30", height = "30" }) => {
   return (
     <svg width={width} height={height} viewBox="0 0 170 145" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -60,7 +60,7 @@ export const LinkedIn = ({ width = "30", height = "30" }) => {
   );
 };
 
-export const TailwindCss = () => {
+export const TailwindCssIcon = () => {
   return (
     <svg width="162" height="20" viewBox="0 0 162 20" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g clipPath="url(#clip0_6_14)">
@@ -85,7 +85,7 @@ export const TailwindCss = () => {
     </svg>
   );
 };
-export const ReactJs = () => {
+export const ReactJsIcon = () => {
   return (
     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M20 17.75C21.6051 17.75 22.9063 16.4488 22.9063 14.8437C22.9063 13.2387 21.6051 11.9375 20 11.9375C18.3949 11.9375 17.0938 13.2387 17.0938 14.8437C17.0938 16.4488 18.3949 17.75 20 17.75Z" fill="#61DAFB" />
@@ -97,7 +97,7 @@ export const ReactJs = () => {
   );
 };
 
-export const Redux = () => {
+export const ReduxIcon = () => {
   return (
     <svg width="32" height="30" viewBox="0 0 32 30" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g clipPath="url(#clip0_6_24)">
@@ -115,7 +115,7 @@ export const Redux = () => {
   );
 };
 
-export const NodeJs = () => {
+export const NodeJsIcon = () => {
   return (
     <svg width="106" height="30" viewBox="0 0 106 30" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g clipPath="url(#clip0_6_35)">
@@ -144,7 +144,7 @@ export const NodeJs = () => {
     </svg>
   );
 };
-export const ExpressJs = () => {
+export const ExpressJsIcon = () => {
   return (
     <svg width="136" height="33" viewBox="0 0 136 33" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M108 0H136V28H108V0Z" fill="#F0DB4F" />
@@ -167,7 +167,7 @@ export const ExpressJs = () => {
   );
 };
 
-export const MongoDb = () => {
+export const MongoDbIcon = () => {
   return (
     <svg width="149" height="40" viewBox="0 0 149 40" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -217,7 +217,7 @@ export const MongoDb = () => {
     </svg>
   );
 };
-export const ReactNative = () => {
+export const ReactNativeIcon = () => {
   return (
     <svg width="50" height="40" viewBox="0 0 50 40" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g clipPath="url(#clip0_6_27)">
@@ -239,7 +239,7 @@ export const ReactNative = () => {
   );
 };
 
-export const NextJs = () => {
+export const NextJsIcon = () => {
   return (
     <svg width="50" height="30" viewBox="0 0 50 30" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g clipPath="url(#clip0_11_46)">
