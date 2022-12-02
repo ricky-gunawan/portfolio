@@ -13,7 +13,7 @@ const CustomerCRUD = () => {
       </div>
       <div className="flex flex-col items-center gap-4 md:w-[40%]">
         <h3 className="uppercase text-lg font-semibold">Customer CRUD App</h3>
-        <p>This is an app for creating, Reading, Updating, and Deleting Customers with a confirmation modal. This app also has other features like searching, filtering, and sorting.</p>
+        <p>This is an app for Creating, Reading, Updating, and Deleting Customers with a confirmation modal. This app also has other features like searching, filtering, and sorting.</p>
         <div className="flex gap-6">
           <LiveDemoBtn link="https://ricky-gunawan.github.io/frontend-crud/" />
           <RepoBtn link="https://github.com/ricky-gunawan/frontend-crud/" />
