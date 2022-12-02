@@ -13,7 +13,7 @@ const WebUIComponents = () => {
       </div>
       <div className="flex flex-col items-center gap-4 md:w-[40%]">
         <h3 className="uppercase text-lg font-semibold">web ui components</h3>
-        <p>In this website I have built web UI common components, such as button, modal, card, carousel, etc. I learned a lot about CSS in this project and also learned how to implement color theme</p>
+        <p>On this website, I have built common web UI components, such as button, modal, card, carousel, etc. In this project, I learned a lot about CSS.</p>
         <div className="flex gap-6">
           <LiveDemoBtn link="https://ricky-gunawan.github.io/personal-ui-components" />
           <RepoBtn link="https://github.com/ricky-gunawan/personal-ui-components" />

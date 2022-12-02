@@ -15,7 +15,7 @@ const Shoeshop = () => {
         <div className="flex flex-col items-center gap-4 md:w-[40%]">
           <h3 className="uppercase text-lg font-semibold">Shoeshop</h3>
           <div>
-            <p>Simple online shop that I have built from the scratch. In this project I learn many things from frontend to backend, such as:</p>
+            <p>A simple online shop that I have built from scratch. In this project, I learned many things from frontend to backend development, such as</p>
             <ol className="list-disc list-inside overflow-hidden">
               <li>Built fully responsive frontend UI using Tailwind CSS and React JS</li>
               <li>Using Redux Toolkit for client state, and React Query for server state management</li>

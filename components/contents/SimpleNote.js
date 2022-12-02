@@ -12,7 +12,7 @@ const SimpleNote = () => {
       </div>
       <div className="flex flex-col items-center gap-4">
         <h3 className="uppercase text-lg font-semibold">Simple Note Android App</h3>
-        <p>Simple app to keep notes. You can create, search, and delete note. In this project I learned the basics of react native</p>
+        <p>Simple app to keep notes. You can create, search, and delete note. In this project, I learned the basics of react native</p>
         <div className="flex gap-6">
           <a href="/simple-note.apk" className="text-white uppercase bg-[#fb8500] py-1 px-2 rounded-md shadow-lg shadow-black hover:bg-[#d87503] border-2 border-slate-300">
             Download APK
